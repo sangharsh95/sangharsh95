@@ -40,7 +40,8 @@
 ## 📈 GitHub Stats (Premium Look)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangharsh95&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sangharsh95&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  
   <img src="https://streak-stats.demolab.com?user=sangharsh95&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
@@ -49,7 +50,7 @@
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangharsh95&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sangharsh95&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -57,7 +58,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sangharsh95&theme=tokyonight&no-frame=true&margin-w=12"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sangharsh95&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
 
 ---
