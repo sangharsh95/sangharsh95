@@ -22,6 +22,7 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/sangharsh95/sangharsh95/output/github-contribution-grid-snake.svg)
+
