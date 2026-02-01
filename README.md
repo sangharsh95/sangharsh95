@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+love+Coding+and+Development;Python+%7C+C+%7C+Web+Development;Building+the+Future+with+Code🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;I+love+Coding+and+Development;Python+%7C+C+%7C+Web+Development;Building+the+Future+with+Code🚀" />
 </p>
 
 ---
@@ -14,9 +14,9 @@
 
 - 🎓 BTech CSE Student  
 - 💻 Skilled in **Python, C, Web Development**  
-- 🌱 Currently learning **DSA + Full Stack**  
+- 🌱 Currently learning **DSA + Full Stack Development**  
 - 🎯 Goal: Crack internships and top placements  
-- ⚡ Fun Fact: I enjoy building cool projects  
+- ⚡ Fun Fact: I enjoy building advanced projects  
 
 ---
 
@@ -28,11 +28,11 @@
 
 ---
 
-## 📈 GitHub Stats (Advanced Look)
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sangharsh95&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangharsh95&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangharsh95&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sangharsh95&theme=matrix&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -75,19 +75,18 @@
 
 ---
 
-## 🚀 Visitors Count
+## 🚀 Profile Visitors Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=sangharsh95&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
 
-<h2 align="center">⭐ Thank You for Visiting My Profile ⭐</h2>
+# 🐍 Contribution Snake Animation
+
+![snake gif](https://github.com/sangharsh95/sangharsh95/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
+<h2 align="center">⭐ Thank You for Visiting My Profile ⭐</h2>
