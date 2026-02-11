@@ -22,7 +22,7 @@
 ## 🚀 About Me  
 
 - 🎓 BTech Computer Science Engineering Student  
-- 💻 Skilled in **Python, C, Java, Web Development**  
+- 💻 Skilled in **Python, C, Java, DSA ,Web Development**  
 - 🌱 Currently learning **DSA + Full Stack Development**  
 - 🎯 Goal: Crack internships and top placements  
 - ⚡ Passionate about building real-world projects  
