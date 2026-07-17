@@ -41,9 +41,9 @@
 
 ## 💻 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sangharsh0608?theme=dark&font=Baloo&ext=contest" />
-</p>
+<!-- <p align="center"> -->
+  <!-- <img src="https://leetcard.jacoblin.cool/Sangharsh0608?theme=dark&font=Baloo&ext=contest" /> -->
+<!-- </p> -->
 
 ---
 
